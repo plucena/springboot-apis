@@ -1,5 +1,7 @@
 # lojaspringbot
 
+requires java 21 or newer
+
 DEV:
 mvn install
 
