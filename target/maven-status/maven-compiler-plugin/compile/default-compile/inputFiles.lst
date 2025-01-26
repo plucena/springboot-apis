@@ -1,4 +1,4 @@
-/home/percival/lojaspringbot/src/main/java/com/example/demo/Demo2Application.java
-/home/percival/lojaspringbot/src/main/java/com/example/demo/repos/ProductRepository.java
-/home/percival/lojaspringbot/src/main/java/com/example/demo/entities/Product.java
-/home/percival/lojaspringbot/src/main/java/com/example/demo/controllers/ProductRestController.java
+/Users/percival.lucena/java/springboot-apis/src/main/java/com/example/demo/Demo2Application.java
+/Users/percival.lucena/java/springboot-apis/src/main/java/com/example/demo/repos/ProductRepository.java
+/Users/percival.lucena/java/springboot-apis/src/main/java/com/example/demo/controllers/ProductRestController.java
+/Users/percival.lucena/java/springboot-apis/src/main/java/com/example/demo/entities/Product.java
